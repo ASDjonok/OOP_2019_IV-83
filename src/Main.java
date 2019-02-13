@@ -10,6 +10,12 @@ public class Main {
 
         int a = 1;
         int b = 2;
+
+        //task*
+        int n = 20;
+        for (int i = 0; i < n; i--) {
+            System.out.println("*");
+        }
     }
 }
 //var a:integer;
